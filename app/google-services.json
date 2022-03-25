@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492134473548",
+    "project_id": "talk-x-together",
+    "storage_bucket": "talk-x-together.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492134473548:android:10899746c373b7066139e9",
+        "android_client_info": {
+          "package_name": "com.example.ttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492134473548-n4f7bn800j3vvvmhal7lsrs1q0uangj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ttt",
+            "certificate_hash": "9bf2dc8c6cfc95dccfefad24d4af313b8ffe5b72"
+          }
+        },
+        {
+          "client_id": "492134473548-2jl1oqltqb25pnlr1k717ge22mn9h5j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgaCovVfOqPnSe8783l6scQhSUzl0lgKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492134473548-2jl1oqltqb25pnlr1k717ge22mn9h5j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

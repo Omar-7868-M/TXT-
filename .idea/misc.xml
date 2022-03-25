@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/drawable/TXT_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.1" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/drawable/messagebackground.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/drawable/receiverchat.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/drawable/senderchat.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/activity_chat_actvity.xml" value="0.25" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/activity_otpauthentication.xml" value="0.2323529411764706" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/activity_profile_actvity.xml" value="0.25" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/activity_set_profile.xml" value="0.25732899022801303" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/activity_specifi_chat.xml" value="0.16" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/activity_update_profile.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/callfrag.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/chatfrag.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/chatfragment.xml" value="0.25" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/chatviewlayout.xml" value="0.33" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/receiverchatlayout.xml" value="0.1757852077001013" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/senderchatlayout.xml" value="0.1757852077001013" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/layout/statusfrag.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/menu/menu.xml" value="0.22" />
+        <entry key="..\:/Users/mehmo/Downloads/TTT/app/src/main/res/mipmap-anydpi-v26/TXT.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
